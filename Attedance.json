@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "attendance001",
+      "user_id": "user001",
+      "date": "2020-10-16",
+      "status": "absent"
+    },
+    {
+      "_id": "attendance002",
+      "user_id": "user002",
+      "date": "2020-10-20",
+      "status": "present"
+    },
+    {
+      "_id": "attendance003",
+      "user_id": "user003",
+      "date": "2020-10-22",
+      "status": "absent"
+    },
+    {
+      "_id": "attendance004",
+      "user_id": "user004",
+      "date": "2020-10-25",
+      "status": "absent"
+    }
+  ]
+  

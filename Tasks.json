@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "task001",
+      "name": "Implement CRUD Operations",
+      "topic_id": "topic001",
+      "submission_date": "2020-10-20"
+    },
+    {
+      "_id": "task002",
+      "name": "Optimize MongoDB Queries",
+      "topic_id": "topic002",
+      "submission_date": "2020-10-25"
+    },
+    {
+      "_id": "task003",
+      "name": "Solve Sorting Algorithms",
+      "topic_id": "topic003",
+      "submission_date": "2020-10-30"
+    },
+    {
+      "_id": "task004",
+      "name": "Graph Algorithms",
+      "topic_id": "topic004",
+      "submission_date": "2020-10-31"
+    }
+  ]
+  

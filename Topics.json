@@ -1,0 +1,23 @@
+[
+    {
+      "_id": "topic001",
+      "name": "MongoDB Basics",
+      "date": "2020-10-05"
+    },
+    {
+      "_id": "topic002",
+      "name": "Advanced MongoDB",
+      "date": "2020-10-10"
+    },
+    {
+      "_id": "topic003",
+      "name": "Introduction to Algorithms",
+      "date": "2020-10-15"
+    },
+    {
+      "_id": "topic004",
+      "name": "Data Structures",
+      "date": "2020-10-20"
+    }
+  ]
+  

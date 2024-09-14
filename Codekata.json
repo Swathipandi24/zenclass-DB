@@ -1,0 +1,23 @@
+[
+    {
+      "_id": "codekata001",
+      "user_id": "user001",
+      "problems_solved": 25
+    },
+    {
+      "_id": "codekata002",
+      "user_id": "user002",
+      "problems_solved": 30
+    },
+    {
+      "_id": "codekata003",
+      "user_id": "user003",
+      "problems_solved": 18
+    },
+    {
+      "_id": "codekata004",
+      "user_id": "user004",
+      "problems_solved": 22
+    }
+  ]
+  
